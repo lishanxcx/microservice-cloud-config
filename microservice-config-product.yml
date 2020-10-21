@@ -61,7 +61,7 @@ spring:
      # max-total: 5  #  最大连接数
      # max-wait-millis: 150  #  等待连接获取的最大超时时间
 emp:
-  name: lisi            
+  name: wangwu            
 eureka:
   client:
     registerWithEureka: true  #  服务注册开关
